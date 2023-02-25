@@ -1,25 +1,25 @@
 import * as React from "react";
 import "./App.css";
-import rectangle from "./assets/rectangle.svg";
-import phone from "./assets/phone.svg";
-import rectangle10 from "./assets/rectangle10.png";
-import group1 from "./assets/group1.svg";
-import rectangle12 from "./assets/rectangle12.png";
-import rectangle5 from "./assets/rectangle5.png";
-import twitter from "./assets/twitter.png";
-import facebook from "./assets/facebook.png";
-import ellipse from "./assets/ellipse.svg";
-import rectangle11 from "./assets/rectangle11.png";
-import rectangle7 from "./assets/rectangle7.png";
-import qxzngjxqhadlr from "./assets/qxzngjxqhadlr.svg";
-import rectangle6 from "./assets/rectangle6.png";
-import rectangle9 from "./assets/rectangle9.svg";
-import rectangle3 from "./assets/rectangle3.png";
-import rectangle4 from "./assets/rectangle4.png";
-import instagram from "./assets/instagram.png";
-import rectangle8 from "./assets/rectangle8.svg";
-import group from "./assets/group.svg";
-import rectangle2 from "./assets/rectangle2.png";
+import rectangle from "./rectangle.svg";
+import phone from "./phone.svg";
+import rectangle10 from "./rectangle10.png";
+import group1 from "./group1.svg";
+import rectangle12 from "./rectangle12.png";
+import rectangle5 from "./rectangle5.png";
+import twitter from "./twitter.png";
+import facebook from "./facebook.png";
+import ellipse from "./ellipse.svg";
+import rectangle11 from "./rectangle11.png";
+import rectangle7 from "./rectangle7.png";
+import qxzngjxqhadlr from "./qxzngjxqhadlr.svg";
+import rectangle6 from "./rectangle6.png";
+import rectangle9 from "./rectangle9.svg";
+import rectangle3 from "./rectangle3.png";
+import rectangle4 from "./rectangle4.png";
+import instagram from "./instagram.png";
+import rectangle8 from "./rectangle8.svg";
+import group from "./group.svg";
+import rectangle2 from "./rectangle2.png";
 const App = () => {
   return (
     <div className="mac-book-pro-1">

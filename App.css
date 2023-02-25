@@ -1,0 +1,877 @@
+.mac-book-pro-1 {
+  color: #165e08;
+  width: 100%;
+  height: 100%;
+  background-color: #fbfefd;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 31px;
+  padding-bottom: 80px;
+  padding-left: 46px;
+  font-family: Heebo, Arial;
+  font-size: 1.5rem;
+  font-weight: 400;
+  line-height: 36px;
+  display: flex;
+}
+
+.flex-container {
+  color: #27adcf;
+  width: 100%;
+  flex-direction: row;
+  flex-basis: 2%;
+  justify-content: space-between;
+  align-self: flex-end;
+  align-items: stretch;
+  font-size: 1.25rem;
+  line-height: 29px;
+  display: flex;
+}
+
+.ellipse {
+  z-index: 1;
+  width: 42px;
+  height: 20px;
+  object-fit: cover;
+  margin-right: -27px;
+}
+
+.rectangle-1 {
+  height: 100%;
+  background-color: #fbfefd;
+  flex-direction: row;
+  flex-basis: 99%;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 16px;
+  padding-bottom: 13px;
+  padding-right: 39px;
+  display: flex;
+}
+
+.flex-container-1 {
+  color: #165e08;
+  height: 45%;
+  flex-direction: column;
+  flex-basis: 14%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 8px;
+  margin-right: 213px;
+  font-family: Old Standard TT, Arial;
+  font-size: .875rem;
+  font-weight: 700;
+  line-height: 38px;
+  display: flex;
+}
+
+.akshay-patr {
+  font-size: 1.938rem;
+}
+
+.never-depleting-supp {
+  color: #27adcf;
+  align-self: flex-end;
+  font-weight: 400;
+  line-height: 17px;
+}
+
+.home {
+  margin-bottom: 22px;
+  margin-left: 93px;
+}
+
+.services, .donate-now {
+  margin-bottom: 22px;
+}
+
+.about-us {
+  margin-bottom: 23px;
+}
+
+.rectangle-2 {
+  color: #faf7f0;
+  height: 40%;
+  background-color: #165e08;
+  border: 1px solid;
+  flex-direction: row;
+  flex-basis: 11%;
+  justify-content: center;
+  align-self: flex-start;
+  align-items: center;
+  padding-top: 3px;
+  padding-left: 5px;
+  display: flex;
+}
+
+.contact {
+  margin-top: 2px;
+  margin-left: 2px;
+}
+
+.qxzngjxqhadlr {
+  width: 1250px;
+  height: 626px;
+  object-fit: cover;
+}
+
+.foods {
+  font-family: Old Standard TT, Arial;
+  font-size: 3.125rem;
+  line-height: 62px;
+}
+
+.flex-container-2 {
+  text-align: center;
+  color: #27adcf;
+  width: 90%;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-right: 360px;
+  line-height: 46px;
+  display: flex;
+}
+
+.rectangle-128 {
+  height: 100%;
+  background-color: #faf7f0;
+  flex-direction: row;
+  flex-basis: 20%;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 1px;
+  padding-right: 1px;
+  display: flex;
+}
+
+.raw-food {
+  text-transform: capitalize;
+}
+
+.group-442 {
+  width: 250px;
+  height: 78px;
+  object-fit: cover;
+}
+
+.rectangle-131 {
+  height: 100%;
+  background-color: #faf7f0;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  display: flex;
+}
+
+.cooked-food {
+  text-transform: capitalize;
+  margin-bottom: 25px;
+}
+
+.rectangle-126 {
+  z-index: 1;
+  width: 1250px;
+  height: 6px;
+  object-fit: cover;
+}
+
+.group-440 {
+  width: 250px;
+  height: 78px;
+  object-fit: cover;
+}
+
+.rectangle-133 {
+  height: 100%;
+  background-color: #faf7f0;
+  flex-direction: row;
+  flex-basis: 20%;
+  justify-content: center;
+  align-items: center;
+  margin-left: 4px;
+  padding-bottom: 1px;
+  display: flex;
+}
+
+.packed-food {
+  text-transform: capitalize;
+}
+
+.flex-container-3 {
+  width: 90%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  display: flex;
+}
+
+.rectangle-146 {
+  width: 396px;
+  height: 251px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.rectangle-147 {
+  width: 397px;
+  height: 251px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.rectangle-148 {
+  width: 396px;
+  height: 251px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  margin-left: 2px;
+}
+
+.flex-container-4 {
+  width: 65%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  align-items: stretch;
+  margin-bottom: 80px;
+  margin-left: 51px;
+  font-family: Old Standard TT, Arial;
+  font-size: 2rem;
+  font-weight: 700;
+  display: flex;
+}
+
+.milk {
+  margin-left: 14px;
+  margin-right: -851px;
+}
+
+.our-services {
+  align-self: flex-start;
+  margin-top: 4px;
+  margin-left: 48px;
+  font-family: Old Standard TT, Arial;
+  font-size: 3.125rem;
+  line-height: 62px;
+}
+
+.flex-container-5 {
+  color: #27adcf99;
+  width: 90%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 26px;
+  font-size: 2.625rem;
+  font-weight: 700;
+  display: flex;
+}
+
+.rectangle-5 {
+  width: 574px;
+  height: 434px;
+  object-fit: cover;
+}
+
+.flex-container-6 {
+  height: 70%;
+  flex-direction: column;
+  flex-basis: 47%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-top: 9px;
+  margin-bottom: 3px;
+  display: flex;
+}
+
+.donate-food {
+  color: #165e08;
+  margin-left: 3px;
+  font-family: Old Standard TT, Arial;
+  line-height: 52px;
+}
+
+.farms-restaurants-ca {
+  align-self: flex-end;
+  margin-bottom: 22px;
+  font-size: 1.375rem;
+  font-weight: 400;
+}
+
+.group-21 {
+  color: #faf7f0;
+  width: 30%;
+  background-color: #0000;
+  border: none;
+  flex-direction: row;
+  flex-basis: 16%;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-top: 11px;
+  font-family: Old Standard TT, Arial;
+  font-size: 1.125rem;
+  font-weight: 400;
+  line-height: 22px;
+  display: flex;
+}
+
+.rectangle-2-1 {
+  height: 100%;
+  background-color: #165e08;
+  border: 1px solid;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 1px;
+  padding-right: 1px;
+  display: flex;
+}
+
+.read-more {
+  margin-bottom: 1px;
+}
+
+.flex-container-7 {
+  width: 90%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 1px;
+  margin-bottom: 25px;
+  font-size: 2.625rem;
+  font-weight: 700;
+  display: flex;
+}
+
+.flex-container-8 {
+  height: 70%;
+  flex-direction: column;
+  flex-basis: 48%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-top: 11px;
+  margin-bottom: 5px;
+  display: flex;
+}
+
+.secure-food {
+  margin-left: 4px;
+  font-family: Old Standard TT, Arial;
+  line-height: 52px;
+}
+
+.pre-vetted-charities {
+  color: #27adcf99;
+  align-self: flex-end;
+  margin-bottom: 18px;
+  font-size: 1.375rem;
+  font-weight: 400;
+}
+
+.group-20 {
+  color: #faf7f0;
+  width: 30%;
+  background-color: #0000;
+  border: none;
+  flex-direction: row;
+  flex-basis: 16%;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-top: 9px;
+  font-family: Old Standard TT, Arial;
+  font-size: 1.125rem;
+  font-weight: 400;
+  line-height: 22px;
+  display: flex;
+}
+
+.rectangle-2-2 {
+  height: 100%;
+  background-color: #165e08;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 1px;
+  padding-right: 1px;
+  display: flex;
+}
+
+.read-more-1 {
+  margin-bottom: 1px;
+}
+
+.rectangle-6 {
+  width: 574px;
+  height: 434px;
+  object-fit: cover;
+}
+
+.flex-container-9 {
+  width: 90%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 2px;
+  margin-bottom: 74px;
+  font-size: 1.375rem;
+  font-weight: 700;
+  display: flex;
+}
+
+.rectangle-7 {
+  width: 574px;
+  height: 434px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  margin-right: 1px;
+}
+
+.flex-container-10 {
+  height: 70%;
+  flex-direction: column;
+  flex-basis: 48%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin: 9px -653px 2px 1px;
+  display: flex;
+}
+
+.pick-up-food {
+  margin-left: 3px;
+  font-family: Old Standard TT, Arial;
+  font-size: 2.625rem;
+  line-height: 52px;
+}
+
+.the-charity-or-a-net {
+  color: #27adcf99;
+  align-self: flex-end;
+  margin-bottom: 43px;
+  font-weight: 400;
+}
+
+.group-5 {
+  color: #faf7f0;
+  width: 30%;
+  background-color: #0000;
+  border: none;
+  flex-direction: row;
+  flex-basis: 16%;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-top: 21px;
+  font-family: Old Standard TT, Arial;
+  font-size: 1.125rem;
+  font-weight: 400;
+  line-height: 22px;
+  display: flex;
+}
+
+.rectangle-2-3 {
+  height: 100%;
+  background-color: #165e08;
+  border: 1px solid;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 1px;
+  padding-right: 1px;
+  display: flex;
+}
+
+.read-more-2 {
+  margin-bottom: 1px;
+}
+
+.rectangle-8 {
+  color: #ffffffb3;
+  width: 90%;
+  background-color: #165e08;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+  margin-top: 4px;
+  margin-bottom: 75px;
+  font-size: 2.75rem;
+  line-height: 54px;
+  display: flex;
+}
+
+.rectangle-9 {
+  width: 601px;
+  height: 483px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.flex-container-11 {
+  height: 65%;
+  flex-direction: column;
+  flex-basis: 33%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-bottom: 24px;
+  margin-left: 52px;
+  display: flex;
+}
+
+.if-you-cannot-feed-a {
+  color: #faf7f0;
+  align-self: flex-end;
+  font-family: Old Standard TT, Arial;
+  font-weight: 700;
+}
+
+.donate-excess-food-t {
+  margin-bottom: 13px;
+  font-size: 1.375rem;
+  line-height: 35px;
+}
+
+.rectangle-2-4 {
+  color: #2b2024;
+  width: 40%;
+  background-color: #faf7f0;
+  border: none;
+  flex-direction: row;
+  flex-basis: 12%;
+  justify-content: center;
+  align-items: center;
+  margin-top: 6px;
+  padding-top: 2px;
+  padding-right: 12px;
+  font-family: Old Standard TT, Arial;
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 25px;
+  display: flex;
+}
+
+.lets-donate {
+  margin-top: 1px;
+}
+
+.connect-us-on-instag {
+  text-align: center;
+  margin-top: 4px;
+  font-family: Old Standard TT, Arial;
+  font-size: 3.125rem;
+  line-height: 62px;
+}
+
+.flex-container-12 {
+  width: 90%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  display: flex;
+}
+
+.rectangle-10 {
+  width: 487px;
+  height: 450px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.flex-container-13 {
+  height: 100%;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: stretch;
+  display: flex;
+}
+
+.rectangle-39 {
+  width: 244px;
+  height: 218px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.rectangle-40 {
+  width: 244px;
+  height: 217px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.rectangle-42 {
+  width: 487px;
+  height: 450px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.group-7 {
+  color: #fff;
+  width: 15%;
+  background-color: #0000;
+  border: none;
+  flex-direction: row;
+  flex-basis: 1%;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-bottom: 85px;
+  margin-left: 5px;
+  font-family: Old Standard TT, Arial;
+  font-size: 1.25rem;
+  font-weight: 400;
+  line-height: 25px;
+  display: flex;
+}
+
+.rectangle-2-5 {
+  height: 100%;
+  background-color: #165e08;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: center;
+  align-items: center;
+  padding-top: 2px;
+  padding-left: 4px;
+  display: flex;
+}
+
+.instagram {
+  margin-top: 1px;
+  margin-left: 2px;
+}
+
+.about-us-1 {
+  align-self: flex-start;
+  margin-top: 5px;
+  margin-left: 46px;
+  font-family: Old Standard TT, Arial;
+  font-size: 3.125rem;
+  line-height: 62px;
+}
+
+.flex-container-14 {
+  color: #27adcfbf;
+  width: 80%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+  line-height: 35px;
+  display: flex;
+}
+
+.rectangle-16 {
+  width: 577px;
+  height: 618px;
+  object-fit: cover;
+}
+
+.flex-container-15 {
+  height: 85%;
+  flex-direction: column;
+  flex-basis: 45%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-top: 11px;
+  margin-bottom: 7px;
+  display: flex;
+}
+
+.num-13-of-all-the-foo {
+  color: #165e08bf;
+  align-self: flex-end;
+  margin-bottom: 23px;
+  font-size: 2rem;
+}
+
+.service-organization {
+  align-self: center;
+  margin-top: 8px;
+}
+
+.akshay-patr-breaks-d {
+  align-self: center;
+  margin-bottom: 18px;
+}
+
+.flex-container-16 {
+  width: 20%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-top: 6px;
+  display: flex;
+}
+
+.twitter-1 {
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+  border: 1px solid;
+}
+
+.facebook-1, .instagram-1 {
+  width: 20px;
+  height: 20px;
+  object-fit: cover;
+  background-position: center;
+  background-size: cover;
+}
+
+.group-8 {
+  color: #fff;
+  width: 15%;
+  background-color: #0000;
+  border: none;
+  flex-direction: row;
+  flex-basis: 1%;
+  justify-content: flex-start;
+  align-items: stretch;
+  margin-top: 1px;
+  margin-bottom: 167px;
+  margin-left: 5px;
+  font-family: Old Standard TT, Arial;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 30px;
+  display: flex;
+}
+
+.rectangle-2-6 {
+  height: 100%;
+  background-color: #165e08;
+  flex-direction: row;
+  flex-basis: 100%;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 1px;
+  padding-right: 1px;
+  display: flex;
+}
+
+.contact-us {
+  margin-bottom: 1px;
+}
+
+.flex-container-17 {
+  width: 65%;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-top: 9px;
+  font-family: Playfair Display, Arial;
+  font-size: 2.25rem;
+  font-weight: 700;
+  line-height: 48px;
+  display: flex;
+}
+
+.akshay-patr-1 {
+  margin-right: 93px;
+}
+
+.about-us-2 {
+  margin-left: 46px;
+}
+
+.flex-container-18 {
+  color: #27adcf;
+  width: 75%;
+  flex-direction: row;
+  flex-basis: 1%;
+  justify-content: space-between;
+  align-items: flex-end;
+  line-height: 35px;
+  display: flex;
+}
+
+.never-depleting-supp-1 {
+  color: #27adcfbf;
+  margin-right: 57px;
+  line-height: 30px;
+}
+
+.services-1 {
+  align-self: center;
+  margin-bottom: 1px;
+  margin-left: 19px;
+}
+
+.group {
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  align-self: flex-start;
+  margin-left: 73px;
+}
+
+.akshaypatrgmailcom {
+  align-self: center;
+  margin-top: 1px;
+}
+
+.flex-container-19 {
+  color: #27adcf;
+  width: 35%;
+  flex-direction: row;
+  flex-basis: 1%;
+  justify-content: space-between;
+  align-items: stretch;
+  margin-left: 172px;
+  line-height: 35px;
+  display: flex;
+}
+
+.gallery {
+  align-self: flex-end;
+}
+
+.bengaluru-india {
+  margin-right: -295px;
+}
+
+.flex-container-20 {
+  color: #27adcf;
+  width: 35%;
+  flex-direction: row;
+  flex-basis: 1%;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-bottom: 47px;
+  margin-left: 171px;
+  line-height: 29px;
+  display: flex;
+}
+
+.accomodations {
+  margin-right: 39px;
+  line-height: 35px;
+}
+
+.phone {
+  width: 24px;
+  height: 24px;
+  object-fit: cover;
+  align-self: flex-start;
+  margin-left: 19px;
+}
+
+.num-91-123-456-789 {
+  align-self: center;
+  margin-top: 1px;
+  font-family: Lato, Arial;
+}

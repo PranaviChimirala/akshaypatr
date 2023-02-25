@@ -187,7 +187,7 @@ const App = () => {
         <span className="bengaluru-india">Bengaluru,India</span>
       </div>
       <div className="flex-container-20">
-        <span className="accomodations">Accomodations</span>
+        <span className="accomodations">Donations</span>
         <img className="phone" src={phone} />
         <span className="num-91-123-456-789">+91-123-456-789</span>
       </div>

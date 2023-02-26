@@ -268,7 +268,7 @@ and (min-device-width : 1200px)
 }
 
 .footer .footer-center p a {
-  color: #06C167;
+  color: #165E08;
   text-decoration: none;
 }
 
@@ -409,5 +409,5 @@ and (min-device-width : 1200px)
  font-size: 28px;
  text-align: center; 
  text-decoration: underline 5px;
- text-decoration-color: #06C167;
+ text-decoration-color: #165E08;
 }

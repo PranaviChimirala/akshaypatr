@@ -2,7 +2,7 @@
 :root{
   --navcolor:white;
   --navfont:black;
-  --green:#06C167;
+  --green:#165E08;
   --box-shadow:0 .5rem 1rem rgba(0,0,0.1)
 }
 *{
@@ -64,7 +64,7 @@ header{
   .banner{
     width: 100%;
     height: 90vh;
-    background:url('cover.jpeg')no-repeat;
+    background:url('./qxzngjxqhadlr.svg')no-repeat;
   background-size: cover;
   display: grid;
   place-items:center;
@@ -131,7 +131,7 @@ header{
 .banner{
   width: auto;
   height: auto;
-  background:url('img/photo1672794248\ \(1\).jpeg')no-repeat;
+  background:url('./qxzngjxqhadlr.svg')no-repeat;
   background-size: cover;
   display: grid;
   place-items:center;
@@ -161,7 +161,7 @@ and (min-device-width : 1200px)
 .content
 {
   padding: 20px;
-  background-color: #06C167;
+  background-color: #165E08;
 
   z-index: 0;
 }
@@ -304,11 +304,11 @@ and (min-device-width : 1200px)
 }
 
 .footer .menu a:hover {
-  color: #06C167;
+  color: #165E08;
 }
 
 .footer .name {
-  color: #06C167;
+  color: #165E08;
   font-size: 14px;
   font-weight: normal;
   margin: 0;
